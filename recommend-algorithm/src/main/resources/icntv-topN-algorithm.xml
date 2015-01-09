@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+
+    <!--所有算法的输入 stb -->
+    <property>
+        <name>hdfs.directory.input</name>
+        <!--<value>/icntv/grade/cdn/%tF</value>-->
+        <value>/icntv/recommend-stb/cms_base/%tF/</value>
+    </property>
+    <!-- topN算法 中间结果输出目录 -->
+    <property>
+        <name>hdf.directory.topN.temp</name>
+        <value>/icntv/recommend-stb/algorithm/top/temp/%tF</value>
+    </property>
+
+    <!-- topN算法 输出目录 -->
+    <property>
+        <name>hdfs.directory.topN.output</name>
+        <value>/icntv/recommend-stb/algorithm/top/output/%tF</value>
+    </property>
+
+    <!-- 关联算法  -->
+</configuration>
