@@ -54,7 +54,12 @@ public class ViewTimeReducer extends Reducer<Text, Text, Text, Text> {
     protected void reduce(Text key, Iterable<Text> values, Context context) throws IOException, InterruptedException {
 
         String[] keys = key.toString().split("\\|");
-        Long defaultTime = Long.parseLong(keys[2]);
+        Long defaultTime =0L;
+        try{
+            defaultTime= Long.parseLong(keys[2]);
+        }catch (Exception e){
+            return;
+        }
         if(defaultTime<=0){
             defaultTime=1L;
         }

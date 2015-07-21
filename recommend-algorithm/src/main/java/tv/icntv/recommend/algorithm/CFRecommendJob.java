@@ -78,6 +78,7 @@ public class CFRecommendJob extends AbstractJob {
 //        MapReduceUtils.initReducerJob(new Path(baseCfData),TimeReducer.class,timeJob);
         MapReduceUtils.initMapperJob(ViewTimeMapper.class,Text.class,Text.class,this.getClass(),timeJob,getInput(configuration)); //new Path(String.format(configuration.get("hdfs.directory.input"),date))
         MapReduceUtils.initReducerJob(new Path(baseCfData), ViewTimeReducer.class,timeJob);
+        timeJob.setNumReduceTasks(8);
         timeJob.waitForCompletion(true);
 
         HadoopUtils.deleteIfExist(output);

@@ -4,7 +4,7 @@
     <list default="true" id="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" name="Default" comment="" />
     <ignored path="icntv-recommend.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1418005514111" ignored="false" />
+    <file path="/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425940921" ignored="false" />
     <file path="/DataTransform.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1393811055949" ignored="false" />
     <file path="/AbstractJob.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417488519114" ignored="false" />
     <file path="/DataInProcessAbstractJob.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1393813963159" ignored="false" />
@@ -20,17 +20,17 @@
     <file path="/LoadProperties.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1393923474047" ignored="false" />
     <file path="/DataBeforeProcessRun.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1393827232234" ignored="false" />
     <file path="/dbBefore.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1393825078436" ignored="false" />
-    <file path="/Dummy.txt" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1418002065507" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/usercenter-cache/src/main/resources/redis.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412760716453" ignored="false" />
+    <file path="/Dummy.txt" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436426715836" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-cache/src/main/resources/redis.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422942874469" ignored="false" />
     <file path="/mysql.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1395204192919" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/resources/mysql.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412760716453" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/resources/mysql.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422942874469" ignored="false" />
     <file path="/ReflectionUtils.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1393827351852" ignored="false" />
     <file path="/icntv-algorithm.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1394524460146" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/parse/src/main/java/tv/icntv/logsys/HadoopRunMain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1393831826652" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/parse/src/main/resources/log-parse-hdfs.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1394154399454" ignored="false" />
     <file path="/log-parse-hdfs.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1394154399454" ignored="false" />
     <file path="/HadoopRunMain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1393831775733" ignored="false" />
-    <file path="/fragment.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1419327321016" ignored="false" />
+    <file path="/fragment.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436402863678" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/parse/src/main/java/tv/icntv/logsys/HadoopRun.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1396231988266" ignored="false" />
     <file path="/HadoopRun.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1396231910932" ignored="false" />
     <file path="$PROJECT_DIR$/../grade/importdb/src/main/java/tv/icntv/imported/db/DBLoad.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1393832727446" ignored="false" />
@@ -60,7 +60,7 @@
     <file path="/HbaseLoad.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1394436526607" ignored="false" />
     <file path="/HadoopUtils.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1393923314029" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/parse/src/main/java/Test.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1394099189526" ignored="false" />
-    <file path="/Test.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416366018241" ignored="false" />
+    <file path="/Test.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423188390682" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/parse/src/main/java/tv/icntv/logsys/Test.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1394099476713" ignored="false" />
     <file path="/Change2HbaseJob.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1394172584562" ignored="false" />
     <file path="/CmsDataMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412833079531" ignored="false" />
@@ -92,7 +92,7 @@
     <file path="$PROJECT_DIR$/../grade/grade-calculate/src/main/resources/grade.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1394528763299" ignored="false" />
     <file path="$PROJECT_DIR$/../grade/cache/src/main/resources/redis.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1396071790194" ignored="false" />
     <file path="$PROJECT_DIR$/../grade/grade-calculate/src/main/java/tv/icntv/grade/film/recommend/TopNJob.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1397725486171" ignored="false" />
-    <file path="/CFRecommendJob.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417416956803" ignored="false" />
+    <file path="/CFRecommendJob.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433397985995" ignored="false" />
     <file path="/icntv-cf-algorithm.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1394692324946" ignored="false" />
     <file path="/RecommendFactory.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1394602739972" ignored="false" />
     <file path="$PROJECT_DIR$/../maven_mahout_template/myMahout.iml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1394603710118" ignored="false" />
@@ -135,11 +135,11 @@
     <file path="/RedisProxy.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1395194421530" ignored="false" />
     <file path="$PROJECT_DIR$/../testCache/src/main/java/tv/SocketTest.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1395212959565" ignored="false" />
     <file path="/SocketTest.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1395206248812" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1397014876090" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412760716453" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/resources/applicationContext.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412760824023" ignored="false" />
-    <file path="/applicationContext.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401773926127" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/resources/logback.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401249396949" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/resources/applicationContext.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
+    <file path="/applicationContext.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1434590322857" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/resources/logback.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
     <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/resources/logback.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1397014876430" ignored="false" />
     <file path="$PROJECT_DIR$/../testCache/src/main/java/JdbcTest.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1395210218005" ignored="false" />
     <file path="/JdbcTest.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1395210212561" ignored="false" />
@@ -166,8 +166,8 @@
     <file path="$PROJECT_DIR$/../logSys/logcrawl/src/main/java/tv/icntv/log/crawl/core/FtpImpl.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1396497658058" ignored="false" />
     <file path="/FtpImpl.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1396426672636" ignored="false" />
     <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/resources/businessUrl.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1402021204533" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/usercenter-cache/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1396321801805" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/usercenter-api/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1396321801805" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-cache/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-api/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
     <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/java/tv/icntv/usercenter/wish/dao/impl/WishDaoImp.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1396321801805" ignored="false" />
     <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/java/tv/icntv/usercenter/wish/service/impl/WishServiceImp.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1396321801805" ignored="false" />
     <file path="$PROJECT_DIR$/../grade/grade-calculate/src/main/java/tv/icntv/grade/film/grade/num/NumProgramSetsMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1396336627546" ignored="false" />
@@ -248,7 +248,7 @@
     <file path="/MapperTest.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1397202646407" ignored="false" />
     <file path="/TestMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1397465081310" ignored="false" />
     <file path="/TestReducer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1397465161812" ignored="false" />
-    <file path="/Main.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1413427410852" ignored="false" />
+    <file path="/Main.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436427377840" ignored="false" />
     <file path="$PROJECT_DIR$/../simple-scheduler/server/src/main/java/tv/icntv/scheduler/server/db/Redis.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1397617477719" ignored="false" />
     <file path="$PROJECT_DIR$/../simple-scheduler/server/src/main/java/tv/icntv/scheduler/server/db/IRedisCache.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1397617335112" ignored="false" />
     <file path="$PROJECT_DIR$/../simple-scheduler/server/src/main/java/tv/icntv/scheduler/server/db/CacheExecption.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1397617335112" ignored="false" />
@@ -281,8 +281,8 @@
     <file path="$PROJECT_DIR$/../logSys/stb-parser/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1402565332395" ignored="false" />
     <file path="/ParserLoginMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1403056275296" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/stb-parser/src/test/java/Test.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412908900660" ignored="false" />
-    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/login/UserLoginDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1403139409669" ignored="false" />
-    <file path="/UserLoginDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1400838779875" ignored="false" />
+    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/login/UserLoginDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481305901" ignored="false" />
+    <file path="/UserLoginDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481305585" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/commons/DateUtils.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1405923794486" ignored="false" />
     <file path="/DateUtils.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416885389068" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/epg/EpgMsgMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401168610293" ignored="false" />
@@ -294,13 +294,13 @@
     <file path="/MsgVo.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401259096824" ignored="false" />
     <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/java/tv/icntv/usercenter/share/model/ChannelModel.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401259250571" ignored="false" />
     <file path="/ChannelModel.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401259243567" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/java/tv/icntv/usercenter/msg/service/impl/MessageServiceImpl.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412760716453" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/java/tv/icntv/usercenter/msg/service/impl/MessageServiceImpl.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
     <file path="/MessageServiceImpl.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401259303123" ignored="false" />
     <file path="/businessUrl.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401353213815" ignored="false" />
     <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/java/tv/icntv/usercenter/api/AttentionController.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401411635591" ignored="false" />
     <file path="/AttentionController.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401411629480" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/tools/src/test/java/Test.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401759305572" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/java/tv/icntv/usercenter/api/ChannelController.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412760716453" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/java/tv/icntv/usercenter/api/ChannelController.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
     <file path="/ChannelController.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401775436214" ignored="false" />
     <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/java/tv/icntv/usercenter/channel/ChannelService.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401766137599" ignored="false" />
     <file path="/ChannelService.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401766865391" ignored="false" />
@@ -309,7 +309,7 @@
     <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/java/tv/icntv/usercenter/api/TestController.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401766179583" ignored="false" />
     <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/java/tv/icntv/usercenter/channel/ChannelServiceImp.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401766179583" ignored="false" />
     <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/test/resources/resources/applicationContext.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401766184657" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/java/tv/icntv/usercenter/channel/service/ChannelServiceImp.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412760716453" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/java/tv/icntv/usercenter/channel/service/ChannelServiceImp.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
     <file path="/ChannelServiceImp.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401774814005" ignored="false" />
     <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/java/tv/icntv/usercenter/channel/dao/ChannelDao.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401773432329" ignored="false" />
     <file path="/ChannelDao.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1401773303834" ignored="false" />
@@ -337,10 +337,10 @@
     <file path="$PROJECT_DIR$/../contentApp/app/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1403139888655" ignored="false" />
     <file path="$PROJECT_DIR$/../contentApp/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1403139837919" ignored="false" />
     <file path="$PROJECT_DIR$/../contentApp/core/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1403139579344" ignored="false" />
-    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/player/PlayerLogDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1403139409669" ignored="false" />
+    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/player/PlayerLogDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481330105" ignored="false" />
     <file path="$PROJECT_DIR$/../contentApp/core/core.iml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1418004566006" ignored="false" />
-    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/replay/ReplayMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1403747522124" ignored="false" />
-    <file path="/ReplayMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1403675410149" ignored="false" />
+    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/replay/ReplayMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481342947" ignored="false" />
+    <file path="/ReplayMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481342947" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/epgoperate/EPGOperateMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1406267142969" ignored="false" />
     <file path="/StbProcessJob.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417050209183" ignored="false" />
     <file path="/stb-data-process.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416362388754" ignored="false" />
@@ -353,8 +353,8 @@
     <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/cdnadapter/CdnAdapter.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1405913100158" ignored="false" />
     <file path="/CdnAdapter.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1405913058844" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/filter/FilterMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417750696644" ignored="false" />
-    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/cdnadapter/CdnAdapterDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412819032257" ignored="false" />
-    <file path="/CdnAdapterDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412819030674" ignored="false" />
+    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/cdnadapter/CdnAdapterDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481162411" ignored="false" />
+    <file path="/CdnAdapterDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481160422" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/cdnadapter/CdnAdapterJob.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1405929754924" ignored="false" />
     <file path="/CdnAdapterJob.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1405929738828" ignored="false" />
     <file path="/UserHobbyJob.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412822678474" ignored="false" />
@@ -378,11 +378,11 @@
     <file path="$PROJECT_DIR$/../cms-search/search/src/main/java/tv/icntv/AbstractHttpServlet.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1408610340143" ignored="false" />
     <file path="/AbstractHttpServlet.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1408608580849" ignored="false" />
     <file path="$PROJECT_DIR$/../cms-search/search/src/main/webapp/WEB-INF/web.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1408608036688" ignored="false" />
-    <file path="/web.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1408600360316" ignored="false" />
+    <file path="/web.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423188414489" ignored="false" />
     <file path="$PROJECT_DIR$/../cms-search/search/src/main/java/tv/icntv/Config.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1408600447780" ignored="false" />
     <file path="/Config.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1408600444824" ignored="false" />
     <file path="$PROJECT_DIR$/../cms-search/search/src/main/java/tv/icntv/cms/domain/response/ProgramSeries.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1408600630211" ignored="false" />
-    <file path="/a.dummy" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417137597021" ignored="false" />
+    <file path="/a.dummy" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423120723621" ignored="false" />
     <file path="$PROJECT_DIR$/../cms-search/search/src/main/java/tv/icntv/search/domain/SearchDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1408685807438" ignored="false" />
     <file path="$PROJECT_DIR$/../cms-search/search/src/main/java/tv/icntv/search/domain/ProgramSeriesResult.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1408686006988" ignored="false" />
     <file path="$PROJECT_DIR$/../cms-search/search/src/main/java/tv/icntv/search/domain/ProgramSeries.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1408687053563" ignored="false" />
@@ -423,8 +423,8 @@
     <file path="/settings.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412756201195" ignored="false" />
     <file path="$USER_HOME$/.m2/settings.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412757445199" ignored="false" />
     <file path="/ReplaceUtils.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412763921241" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/java/tv/icntv/usercenter/api/WishController.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412760716453" ignored="false" />
-    <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/java/tv/icntv/usercenter/api/MessageController.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412760716453" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/java/tv/icntv/usercenter/api/WishController.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422942876216" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/java/tv/icntv/usercenter/api/MessageController.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422942876216" ignored="false" />
     <file path="/icntv-topN-algorithm.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416792426687" ignored="false" />
     <file path="/NumCountMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412833776816" ignored="false" />
     <file path="/NumCountReducer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1412834876772" ignored="false" />
@@ -455,7 +455,7 @@
     <file path="/kafka-producer.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1413271968023" ignored="false" />
     <file path="$PROJECT_DIR$/../logger/logger-cousumer/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1413364667867" ignored="false" />
     <file path="$PROJECT_DIR$/../logger/logger-publisher/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1413337385121" ignored="false" />
-    <file path="$PROJECT_DIR$/../logger/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1413365707266" ignored="false" />
+    <file path="$PROJECT_DIR$/../logger/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423187778115" ignored="false" />
     <file path="$PROJECT_DIR$/../logger/logger-publisher/src/main/java/tv/icntv/logger/msg/send/KafkaSender.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1413277728696" ignored="false" />
     <file path="$PROJECT_DIR$/../logger/logger-publisher/src/main/java/tv/icntv/logger/msg/receive/IConnection.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1413277728696" ignored="false" />
     <file path="$PROJECT_DIR$/../logger/scribe-msg/src/main/java/com/facebook/generate/LogEntry.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1413277728696" ignored="false" />
@@ -530,8 +530,8 @@
     <file path="/PlayLog.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416536054196" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/playLog/PlayLogDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416535247344" ignored="false" />
     <file path="/PlayLogDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416535246262" ignored="false" />
-    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/contentview/ContentViewDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416576501903" ignored="false" />
-    <file path="/ContentViewDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416552246577" ignored="false" />
+    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/contentview/ContentViewDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481231336" ignored="false" />
+    <file path="/ContentViewDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481231336" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/contentview/ContentMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416552589612" ignored="false" />
     <file path="/ContentMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416552588749" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/contentview/ContentViewMapperBack.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416552606862" ignored="false" />
@@ -544,13 +544,13 @@
     <file path="/ContentCountReducer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416796150999" ignored="false" />
     <file path="/FileApi.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416806172043" ignored="false" />
     <file path="/ViewTimeMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416815905229" ignored="false" />
-    <file path="/ViewTimeReducer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417140116741" ignored="false" />
+    <file path="/ViewTimeReducer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433740430117" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/cdnserver/CdnServerParserMaper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417751012649" ignored="false" />
     <file path="/CdnServerParserMaper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417750433782" ignored="false" />
     <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/cdnserver/CdnServerReducer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417163197562" ignored="false" />
     <file path="/CdnServerReducer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417162503949" ignored="false" />
-    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/cdnserver/CdnServer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417162378844" ignored="false" />
-    <file path="/CdnServer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1416907722083" ignored="false" />
+    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/cdnserver/CdnServer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481202297" ignored="false" />
+    <file path="/CdnServer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481202297" ignored="false" />
     <file path="$PROJECT_DIR$/../cms-search/jms/src/main/java/tv/icntv/jms/domain/Artist.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417051092828" ignored="false" />
     <file path="/Artist.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1417051025660" ignored="false" />
     <file path="/TagSource.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1418027907212" ignored="false" />
@@ -644,6 +644,111 @@
     <file path="$PROJECT_DIR$/../cms-search/jms/dependency-reduced-pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1419558361807" ignored="false" />
     <file path="$PROJECT_DIR$/../cms-search/app/src/main/java/tv/icntv/cms/AbstractHttpServlet.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1419558361807" ignored="false" />
     <file path="D:/document/test-gq/10-apache-storm云端统计程序/houzhentongstorm/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1419906047292" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/resources/scheduler.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423012257965" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/util/CommonUtils.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/test/java/tv/icntv/test/pay/common/CommonTest.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/scheduler/IncrementWorker.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/scheduler/TotalDataWorker.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/service/impl/PayServiceImpl.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="/scheduler.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422941981447" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/resources/spring-mvc.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422942876216" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/resources/applicationContext-pay.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/resources/applicationContext-worker.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="/applicationContext-worker.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422942962486" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/scheduler/AbstractWorker.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/test/resources/applicationContext-pay.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/resources/oracle.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/util/FileUtils.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/test/java/tv/icntv/test/pay/BaseTest.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/dao/PayDao.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/service/PayService.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/test/java/tv/icntv/test/pay/dao/PayDaoTest.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/util/PageUtil.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/base/BaseDao.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/base/BaseSqlDao.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/test/java/tv/icntv/test/pay/common/PageUtilTest.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/resources/logback.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/base/BaseDaoImp.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/test/java/tv/icntv/test/pay/common/FileTest.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943938248" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/main/java/tv/icntv/data/exchange/dao/impl/PayDaoImpl.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-exchange/payExchange/src/bin/toFtp.sh" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1422943800503" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423185235378" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/src/main/java/tv/icntv/TestGauges.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423116977483" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/src/main/java/tv/icntv/TestCounter.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423117795282" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/src/main/java/tv/icntv/TestMeters.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423117930964" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/src/main/java/tv/icntv/TestHistograms.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423118344724" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/src/main/java/tv/icntv/TestTimers.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423118363204" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/src/main/java/tv/icntv/DatabaseHealthCheck.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423118522009" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/src/main/java/tv/icntv/GetStarted.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423118826080" ignored="false" />
+    <file path="$PROJECT_DIR$/../logger/data-api/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423187705080" ignored="false" />
+    <file path="$PROJECT_DIR$/../logger/data-api/src/main/java/tv/icntv/logger/data/metircs/MyMetricsServletContextListener.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423187808702" ignored="false" />
+    <file path="$PROJECT_DIR$/../logger/data-api/src/main/java/tv/icntv/logger/data/metircs/MyHealthCheckServletContextListener.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423187979227" ignored="false" />
+    <file path="$PROJECT_DIR$/../logger/data-api/src/main/webapp/WEB-INF/web.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423188415821" ignored="false" />
+    <file path="$PROJECT_DIR$/../logger/data-api/src/main/java/tv/icntv/logger/data/metircs/Test.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423191224361" ignored="false" />
+    <file path="$PROJECT_DIR$/../logger/data-api/src/main/java/tv/icntv/logger/data/api/UserServlet.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423189024669" ignored="false" />
+    <file path="$PROJECT_DIR$/../logger/data-api/src/main/java/tv/icntv/logger/data/AbstractServlet.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423191615770" ignored="false" />
+    <file path="/AbstractServlet.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1423191614847" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/src/main/java/tv/icntv/SysInfo.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425281788503" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/monitor-core/src/main/java/tv/icntv/monitor/core/CustomMonitorService.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425340767460" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/monitor-core/src/main/java/tv/icntv/monitor/core/ICallBack.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425340656967" ignored="false" />
+    <file path="/ICallBack.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425340656967" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/monitor-core/src/main/java/tv/icntv/monitor/core/CommandType.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425280497854" ignored="false" />
+    <file path="/CommandType.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425280486778" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/monitor-core/src/main/java/tv/icntv/monitor/core/base/CustormMonitorImpl.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425340846846" ignored="false" />
+    <file path="/CustomMonitorService.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425340767460" ignored="false" />
+    <file path="/CustormMonitorImpl.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425340846073" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/monitor-app/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425363303989" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425365912079" ignored="false" />
+    <file path="/SysInfo.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425281786725" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/monitor-core/src/main/java/tv/icntv/monitor/core/AbstractCustormMonitor.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425340826336" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/monitor-app/src/main/webapp/WEB-INF/web.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425281560037" ignored="false" />
+    <file path="$PROJECT_DIR$/../test/src/main/java/tv/icntv/FileToCRCUtil.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425287458215" ignored="false" />
+    <file path="/AbstractCustormMonitor.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425340826336" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/monitor-core/src/main/java/tv/icntv/monitor/core/util.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425344198420" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/monitor-core/src/main/java/tv/icntv/monitor/core/util/ShellCommand.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425345436292" ignored="false" />
+    <file path="/ShellCommand.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425345436292" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/business-monitor/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425366383909" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/business-monitor/src/main/webapp/WEB-INF/web.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425360265620" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/business-monitor/src/main/resources/applicationContent/xml.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425361874562" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/business-monitor/src/main/resources/applicationContent.xml.tld" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425361961708" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/business-monitor/src/main/resources/applicationContent.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425362306843" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/business-monitor/src/main/resources/applicationContext.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425366143143" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/data-monitor.iml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1425365530556" ignored="false" />
+    <file path="/CdnStbDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481181606" ignored="false" />
+    <file path="$PROJECT_DIR$/../logSys/stb-parser/src/main/java/tv/icntv/log/stb/cdnModule/CdnStbDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481182405" ignored="false" />
+    <file path="/PlayerLogDomain.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1433481330105" ignored="false" />
+    <file path="$PROJECT_DIR$/../storm-example/src/main/java/Test1.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1434533013578" ignored="false" />
+    <file path="/Test1.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1434533013578" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-monitor/monitor-core/src/main/resources/applicationContext.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1434590341031" ignored="false" />
+    <file path="$PROJECT_DIR$/../qq-log/src/main/java/tv/icntv/qq/log/Main.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436427417323" ignored="false" />
+    <file path="$PROJECT_DIR$/../qq-log/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436406992619" ignored="false" />
+    <file path="$PROJECT_DIR$/../qq-log/qq-log.iml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436407213414" ignored="false" />
+    <file path="$PROJECT_DIR$/../qq-log/src/main/java/tv/icntv/qq/log/utils/MapReduceUtils.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436402864788" ignored="false" />
+    <file path="$PROJECT_DIR$/../qq-log/src/main/java/tv/icntv/qq/log/mr/InputMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436405436189" ignored="false" />
+    <file path="/InputMapper.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436405435118" ignored="false" />
+    <file path="$PROJECT_DIR$/../qq-log/src/main/java/tv/icntv/qq/log/mr/IcntvReducer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436405801389" ignored="false" />
+    <file path="/IcntvReducer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436405792840" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436426015838" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/java/tv/icntv/usercenter/logback/LogbackConfigListener.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/java/tv/icntv/usercenter/logback/LogbackWebConfigurer.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-service/src/main/java/tv/icntv/usercenter/commons/Page.java" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-worker/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
+    <file path="$PROJECT_DIR$/../usercenter/usercenter-api/src/main/webapp/WEB-INF/web.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424340838" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/smart-core/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436424803129" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/smart-service/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425957244" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/smart-app/pom.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425957244" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/.idea/workspace.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425836726" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/.idea/compiler.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425639341" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/.idea/modules.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425799137" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/.idea/misc.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425639341" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/.idea/encodings.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425639341" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/smart-app/src/main/webapp/WEB-INF/web.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425957244" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/smart-app/src/main/resources/log4j.properties" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425957244" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/smart-app/src/main/resources/springmvc-servlet.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425957244" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/smart-app/src/main/webapp/index.jsp" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425957244" ignored="false" />
+    <file path="$PROJECT_DIR$/../smart-travel/smart-app/src/main/resources/applicationContext-app.xml" changelist="573a9571-ac9c-46d6-a8f5-33b08fa7bfd6" time="1436425957244" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -704,7 +809,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/data-import/src/main/java/tv/icntv/data/change/HiveToHbase.java" line="45" class="tv.icntv.data.change.HiveToHbase" package="tv.icntv.data.change">
         <option name="ENABLED" value="true" />
@@ -812,6 +916,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -821,67 +926,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ParallelFPGrowthCombiner.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-core/0.8/mahout-core-0.8-sources.jar!/org/apache/mahout/fpm/pfpgrowth/ParallelFPGrowthCombiner.java">
+      <file leaf-file-name="stb-data-process.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data-preparation/src/main/resources/stb-data-process.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="34" selection-start="1559" selection-end="1559" vertical-scroll-proportion="0.0">
+            <state line="34" column="44" selection-start="1032" selection-end="1061" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hive2Hbase.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data-import/src/main/resources/hive2Hbase.xml">
+      <file leaf-file-name="CFRecommendJob.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/CFRecommendJob.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="39" column="40" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data-process.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data-preparation/src/main/resources/data-process.xml">
+      <file leaf-file-name="AbstractJob.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend-core/src/main/java/tv/icntv/recommend/core/AbstractJob.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="42" column="22" selection-start="1453" selection-end="1453" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="redis.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recommend-core/src/main/resources/redis.properties">
+      <file leaf-file-name="HadoopUtils.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/recommend-core/src/main/java/tv/icntv/recommend/common/HadoopUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="10" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
+            <state line="137" column="49" selection-start="4372" selection-end="4372" vertical-scroll-proportion="0.71623933">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="driver.classes.default.props" pinned="false" current="true" current-in-tab="true">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-core/0.8/mahout-core-0.8.jar!/driver.classes.default.props">
+      <file leaf-file-name="MapReduceUtils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend-core/src/main/java/tv/icntv/recommend/common/MapReduceUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="72" selection-start="1147" selection-end="1157" vertical-scroll-proportion="0.48076922">
+            <state line="35" column="114" selection-start="1157" selection-end="1157" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SequenceFilesFromDirectory.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-integration/0.8/mahout-integration-0.8-sources.jar!/org/apache/mahout/text/SequenceFilesFromDirectory.java">
+      <file leaf-file-name="TopNJob.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/TopNJob.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="132" column="48" selection-start="5545" selection-end="5545" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state line="40" column="33" selection-start="1479" selection-end="1490" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="CorrelateJob.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/CorrelateJob.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="41" column="13" selection-start="1504" selection-end="1504" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -890,7 +992,25 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recommend-core/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="21" selection-start="2393" selection-end="2415" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend-run/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="47" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllJob.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommend-run/src/main/java/tv/icntv/recommend/jobs/AllJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="30" selection-start="1925" selection-end="1925" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -906,22 +1026,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/data-preparation/src/main/resources/stb-data-process.xml" />
         <option value="$PROJECT_DIR$/data-preparation/src/main/java/tv/icntv/data/stb/process/StbProcessJob.java" />
         <option value="$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/topN/ContentCountMapper.java" />
         <option value="$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/TopNJob.java" />
-        <option value="$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/cf/ViewTimeReducer.java" />
         <option value="$PROJECT_DIR$/recommend-algorithm/pom.xml" />
         <option value="$PROJECT_DIR$/recommend-run/src/main/java/tv/icntv/recommend/jobs/AllJob.java" />
         <option value="$PROJECT_DIR$/recommend-core/src/main/java/tv/icntv/recommend/common/MapReduceUtils.java" />
         <option value="$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/correlate/UserHistoryReducer.java" />
         <option value="$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/correlate/UserHistoryMapper.java" />
-        <option value="$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/CFRecommendJob.java" />
         <option value="$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/correlate/UserHistoryCombiner.java" />
         <option value="$PROJECT_DIR$/recommend-core/src/main/java/tv/icntv/recommend/core/AbstractJob.java" />
         <option value="$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/CorrelateJob.java" />
         <option value="$PROJECT_DIR$/recommend-algorithm/src/main/resources/icntv-correlate-algorithm.xml" />
         <option value="$PROJECT_DIR$/recommend-core/pom.xml" />
+        <option value="$PROJECT_DIR$/data-preparation/src/main/resources/data-process.xml" />
+        <option value="$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/CFRecommendJob.java" />
+        <option value="$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/cf/ViewTimeReducer.java" />
       </list>
     </option>
   </component>
@@ -974,54 +1094,6 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="icntv-recommend" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="icntv-recommend" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="data-export" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="data-export" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
@@ -1143,50 +1215,6 @@
               <option name="myItemId" value="icntv-recommend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icntv-recommend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.apache.mahout:mahout-integration:0.8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mahout-integration-0.8.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icntv-recommend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.apache.mahout:mahout-integration:0.8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mahout-integration-0.8.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1279,6 +1307,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="run" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1391,6 +1423,244 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recommend-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recommend-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recommend-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recommend-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recommend-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recommend-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recommend-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="correlate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recommend-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recommend-algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1471,6 +1741,130 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-preparation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-preparation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-preparation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dbunit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-preparation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="process" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1549,6 +1943,44 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icntv-recommend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-import" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="change" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1698,12 +2130,12 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1848,6 +2280,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1874,19 +2319,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2014,7 +2446,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="1" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2031,11 +2463,11 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.67236465" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25971502" sideWeight="0.6851852" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2642487" sideWeight="0.4900285" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42746115" sideWeight="0.6851852" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16951567" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32253885" sideWeight="0.4900285" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5099715" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15414508" sideWeight="0.85612535" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2109,113 +2541,110 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-core/0.8/mahout-core-0.8-sources.jar!/org/apache/mahout/fpm/pfpgrowth/ParallelCountingReducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="21" selection-start="1706" selection-end="1709" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-core/0.8/mahout-core-0.8-sources.jar!/org/apache/mahout/fpm/pfpgrowth/TransactionTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="19" selection-start="1797" selection-end="1797" vertical-scroll-proportion="-1.7916666" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-core/0.8/mahout-core-0.8-sources.jar!/org/apache/mahout/fpm/pfpgrowth/convertors/string/TopKStringPatterns.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="19" selection-start="1232" selection-end="1232" vertical-scroll-proportion="-2.6035888" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-core/0.8/mahout-core-0.8-sources.jar!/org/apache/mahout/fpm/pfpgrowth/ParallelFPGrowthMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="13" selection-start="1483" selection-end="1483" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-core/0.8/mahout-core-0.8-sources.jar!/org/apache/mahout/fpm/pfpgrowth/PFPGrowth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="341" column="38" selection-start="13522" selection-end="13522" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recommend-algorithm/src/main/resources/icntv-correlate-algorithm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="18" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-core/0.8/mahout-core-0.8-sources.jar!/org/apache/mahout/fpm/pfpgrowth/ParallelFPGrowthCombiner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="34" selection-start="1559" selection-end="1559" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data-import/src/main/resources/hive2Hbase.xml">
+    <entry file="file://$PROJECT_DIR$/data-export/src/main/resources/dbBefore.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data-preparation/src/main/resources/data-process.xml">
+    <entry file="file://$PROJECT_DIR$/recommend-run/src/main/java/tv/icntv/recommend/run/JobDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="45" column="19" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recommend-core/src/main/resources/redis.properties">
+    <entry file="file://$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/cf/ViewTimeReducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
+        <state line="58" column="23" selection-start="1939" selection-end="1989" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/data-import/src/main/java/tv/icntv/data/change/mr/CmsDataMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="35" column="13" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-preparation/src/main/resources/stb-data-process.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="44" selection-start="1032" selection-end="1061" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend-run/src/main/java/tv/icntv/recommend/jobs/AllJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="30" selection-start="1925" selection-end="1925" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/CFRecommendJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="40" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.2.0/hadoop-common-2.2.0-sources.jar!/org/apache/hadoop/conf/Configured.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="30" selection-start="816" selection-end="838" vertical-scroll-proportion="0.07800312" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.2.0/hadoop-common-2.2.0-sources.jar!/org/apache/hadoop/util/Tool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="30" selection-start="816" selection-end="838" vertical-scroll-proportion="0.07800312" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/CorrelateJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="13" selection-start="1504" selection-end="1504" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/recommend-core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="21" selection-start="2393" selection-end="2415" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0-sources.jar!/org/apache/hadoop/mapreduce/lib/input/CombineFileRecordReader.java">
+    <entry file="file://$PROJECT_DIR$/recommend-run/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="9" selection-start="3687" selection-end="3687" vertical-scroll-proportion="-1.1367521">
+        <state line="53" column="47" selection-start="2042" selection-end="2042" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-integration/0.8/mahout-integration-0.8-sources.jar!/org/apache/mahout/text/MultipleTextFileInputFormat.java">
+    <entry file="file://$PROJECT_DIR$/recommend-algorithm/src/main/java/tv/icntv/recommend/algorithm/TopNJob.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="27" selection-start="1814" selection-end="1814" vertical-scroll-proportion="0.5833333">
+        <state line="40" column="33" selection-start="1479" selection-end="1490" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-integration/0.8/mahout-integration-0.8-sources.jar!/org/apache/mahout/text/SequenceFilesFromDirectory.java">
+    <entry file="file://$PROJECT_DIR$/recommend-core/src/main/java/tv/icntv/recommend/core/AbstractJob.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="48" selection-start="5545" selection-end="5545" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state line="42" column="22" selection-start="1453" selection-end="1453" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-core/0.8/mahout-core-0.8.jar!/driver.classes.default.props">
+    <entry file="file://$PROJECT_DIR$/recommend-core/src/main/java/tv/icntv/recommend/common/MapReduceUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="72" selection-start="1147" selection-end="1157" vertical-scroll-proportion="0.48076922">
+        <state line="35" column="114" selection-start="1157" selection-end="1157" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend-core/src/main/java/tv/icntv/recommend/common/HadoopUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="49" selection-start="4372" selection-end="4372" vertical-scroll-proportion="0.71623933">
           <folding />
         </state>
       </provider>
